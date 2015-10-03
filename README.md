@@ -5,7 +5,7 @@
 ####Opening, Viewing and Editing Files
 
 * Closing a file
-	* _ctrl + w_          
+	*  **ctrl + w**          
 	* ctrl + shift + t  to re-open last closed file (file open recent)
 
 * Switching btw files (open tabs)
