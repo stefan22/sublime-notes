@@ -6,7 +6,7 @@
 
 * Closing a file
 	*  **ctrl + w**          
-	*  **ctrl + shift + t**    (to re-open last closed file file open recent)
+	*  **ctrl + shift + t**   ``` (to re-open last closed file file open recent)
 
 * Switching btw files (open tabs)
 	* alt + 1 or 2 or 3
