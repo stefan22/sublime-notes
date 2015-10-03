@@ -28,7 +28,7 @@
 * #####Finding and replacing
 	* **ctrl + f**
 
-####Customizing Your Editor
+###Customizing Your Editor
 
 * #####Changing preferences
 	* preferences settings-user (copy and paster from settings-default what u want to change)
@@ -44,7 +44,7 @@
 	* preferences key-bindings-default (dont edit this file -save them in key bindings-user)
 
 
-####Power Editing
+###Power Editing
 
 * #####Expanding selections of code
 * #####Transposing and swapping code
@@ -56,13 +56,13 @@
 * #####Using multiple selections to edit large amounts of text
 * #####Switching into Vintage mode to make it more like Vim
 
-####Automation
+###Automation
 
 * #####Autocompleting code
 * #####Using snippets in code
 * #####Using macros in code
 
-####Essential Packages
+###Essential Packages
 
 * #####Package control
 * #####ReadmePlease
