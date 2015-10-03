@@ -2,8 +2,6 @@
 
 >If you spend most of your time in your text editor. Knowing how to become faster and more proficient in it can save you a great deal of time every day.
 
-###Smart & Faster Coding with Sublime
-
 ####Opening, Viewing and Editing Files
 
 * Closing a file
