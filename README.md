@@ -4,7 +4,7 @@
 
 ####Opening, Viewing and Editing Files
 
-	* #####Closing a file
+* #####Closing a file
 	
 		*  **ctrl + w**          
 		*  **ctrl + shift + t**  &nbsp; (to re-open last closed file file open recent)
