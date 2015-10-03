@@ -6,10 +6,22 @@
 
 ####Opening, Viewing and Editing Files
 
-* Interface
-* Switching btw files
-* Handling encodings and line endings
+* Closing a file
+	* ctrl + w          
+	* ctrl + shift + t  to re-open last closed file (file open recent)
+
+* Switching btw files (open tabs)
+	* alt + 1 or 2 or 3
+
+	* ctrl + tab (to move between tabs)
+	* ctrl + p  (it gives you a pop-up listing all tabs that you have opened)
+
 * Basic editing features
+	* f6 turns on spell check (view spell check)
+	* ctrl + [  to indent group of text
+	* edit line reindent (automatically indent)
+	* ctrl + m  to jump between curly braces or (Goto jump to matching braket)
+
 * Working with multiple files at once
 * Working with projects
 * Finding and replacing
