@@ -14,10 +14,10 @@
 	* **ctrl + p**  &nbsp; (it gives you a pop-up listing all tabs that you have opened)
 
 * #####Basic editing features
-	* **f-6** turns on spell check (view spell check)
-	* **ctrl + [**  to indent group of text
-	* **edit line reindent** (automatically indent)
-	* **ctrl + m**  to jump between curly braces or (Goto jump to matching braket)
+	* **f-6** &nbsp; turns on spell check (view spell check)
+	* **ctrl + [**  &nbsp; to indent group of text
+	* **edit line reindent** &nbsp; (automatically indent)
+	* **ctrl + m**  &nbsp; to jump between curly braces or (Goto jump to matching braket)
 
 * #####Working with multiple files at once
 	* **alt + shift + 1 or 2 or 3**
