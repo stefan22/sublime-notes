@@ -8,8 +8,8 @@
 	*  **ctrl + w**          
 	*  **ctrl + shift + t**  &nbsp; (to re-open last closed file file open recent)
 
-* ######Switching btw files (open tabs)
-	* **alt + 1 or 2 or 3*
+* #####Switching btw files (open tabs)
+	* **alt + 1 or 2 or 3**
 	* **ctrl + tab** &nbsp; (to move between tabs)
 	* **ctrl + p**  &nbsp; (it gives you a pop-up listing all tabs that you have opened)
 
