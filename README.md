@@ -5,44 +5,43 @@
 ####Opening, Viewing and Editing Files
 
 * #####Closing a file
-	
-		*  **ctrl + w**          
-		*  **ctrl + shift + t**  &nbsp; (to re-open last closed file file open recent)
+	*  **ctrl + w**          
+	*  **ctrl + shift + t**  &nbsp; (to re-open last closed file file open recent)
 
-	* #####Switching btw files (open tabs)
-		* **alt + 1 or 2 or 3**
-		* **ctrl + tab** &nbsp; (to move between tabs)
-		* **ctrl + p**  &nbsp; (it gives you a pop-up listing all tabs that you have opened)
+* #####Switching btw files (open tabs)
+	* **alt + 1 or 2 or 3**
+	* **ctrl + tab** &nbsp; (to move between tabs)
+	* **ctrl + p**  &nbsp; (it gives you a pop-up listing all tabs that you have opened)
 
-	* #####Basic editing features
-		* **f-6** turns on spell check (view spell check)
-		* **ctrl + [**  to indent group of text
-		* **edit line reindent** (automatically indent)
-		* **ctrl + m**  to jump between curly braces or (Goto jump to matching braket)
+* #####Basic editing features
+	* **f-6** turns on spell check (view spell check)
+	* **ctrl + [**  to indent group of text
+	* **edit line reindent** (automatically indent)
+	* **ctrl + m**  to jump between curly braces or (Goto jump to matching braket)
 
-	* #####Working with multiple files at once
-		* **alt + shift + 1 or 2 or 3**
+* #####Working with multiple files at once
+	* **alt + shift + 1 or 2 or 3**
 
-	* #####Working with projects
-		* **ctrl + alt + p**
+* #####Working with projects
+	* **ctrl + alt + p**
 
-	* #####Finding and replacing
-		* **ctrl + f**
+* #####Finding and replacing
+	* **ctrl + f**
 
 ####Customizing Your Editor
 
-	* #####Changing preferences
-		* preferences settings-user (copy and paster from settings-default what u want to change)
-		* preferences settings-more (changing syntax settings)
-		
-	* #####Adding custom themes
-		* preferences settings-user (to install your own themes ie: soda-theme)
+* #####Changing preferences
+	* preferences settings-user (copy and paster from settings-default what u want to change)
+	* preferences settings-more (changing syntax settings)
+	
+* #####Adding custom themes
+	* preferences settings-user (to install your own themes ie: soda-theme)
 
-	* #####Adding color schemes
-		* preferences color-scheme
+* #####Adding color schemes
+	* preferences color-scheme
 
-	* #####Custom key bindings
-		* preferences key-bindings-default (dont edit this file -save them in key bindings-user)
+* #####Custom key bindings
+	* preferences key-bindings-default (dont edit this file -save them in key bindings-user)
 
 
 ####Power Editing
