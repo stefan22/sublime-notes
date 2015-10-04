@@ -59,33 +59,33 @@
 	* **ctrl + shift + up/down arrow**   &nbsp;(can move an entire sentence up or down)
 
 * #####Bookmarking a position in the file
-	* **goto bookmark** from main menu
-	* **ctrl + f-2**  (adds a bookmark to the line number. Press f-2 to return to your bookmark)
+	* **goto bookmark** &nbsp;from main menu
+	* **ctrl + f-2**  &nbsp;(adds a bookmark to the line number. Press f-2 to return to your bookmark)
 
 * #####Using Goto Anything command
-	* **ctrl + p** (folders)
-	* **ctrl + p** (then enter # to do a more specific search)
-	* **ctrl + p** (then enter part file name + # to start looking into the file - even if not open)
-	* **ctrl + p** (then enter : + 50 to go to line number 50)
-	* **ctrl + p** (then css + @ to start looking for classes)
+	* **ctrl + p** &nbsp;(folders)
+	* **ctrl + p** &nbsp;(then enter # to do a more specific search)
+	* **ctrl + p** &nbsp;(then enter part file name + # to start looking into the file - even if not open)
+	* **ctrl + p** &nbsp;(then enter : + 50 to go to line number 50)
+	* **ctrl + p** &nbsp;(then css + @ to start looking for classes)
 
 * #####Command palette to access seldom-used shortcuts
-	* **ctrl + shift + p** (list of every command available to you in the editor)
-	* **ctrl + shift + p** (then enter html to set syntax to html or plain for plain)
+	* **ctrl + shift + p** &nbsp;(list of every command available to you in the editor)
+	* **ctrl + shift + p** &nbsp;(then enter html to set syntax to html or plain for plain)
 
 * #####Using multiple selections to edit multiple lines
-	* **hold ctrl key** to drag out your selection
+	* **hold ctrl key** &nbsp;to drag out your selection
 	* **ctrl + alt + up/down arrow**
-	* **ctrl + shift + l** (to split multiple selections into lines)
+	* **ctrl + shift + l** &nbsp;(to split multiple selections into lines)
 
 * #####Creating a multiple selection using matches
 	* **alt + f-3** 
-	* **ctrl-k** (if you're doing a selection you can skip one)
-	* **ctrl-d** (to move on to the next one)
-	* **ctrl-u** (it's the undo selection command)
+	* **ctrl-k** &nbsp;(if you're doing a selection you can skip one)
+	* **ctrl-d** &nbsp;(to move on to the next one)
+	* **ctrl-u** &nbsp;(it's the undo selection command)
 
 * #####Switching into Vintage mode to make it more like Vim
-	* **preferences settings-default(end of file)** c/p to your settings-user file (ignore nothing)
+	* **preferences settings-default(end of file)** &nbsp;c/p to your settings-user file (ignore nothing)
 	
 ###Automation
 
