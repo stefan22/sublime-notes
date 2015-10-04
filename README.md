@@ -85,9 +85,8 @@
 	* **ctrl-u** (it's the undo selection command)
 
 * #####Switching into Vintage mode to make it more like Vim
-	* **preferences settings-default(end of file)** c/p to your settings-user file
-	* next you do ignore nothing
-
+	* **preferences settings-default(end of file)** c/p to your settings-user file (ignore nothing)
+	
 ###Automation
 
 * #####Autocompleting code
