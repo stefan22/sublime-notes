@@ -31,17 +31,17 @@
 ###Customizing Your Editor
 
 * #####Changing preferences
-	* **preferences settings-user** (copy and paster from settings-default what u want to change)
-	* **preferences settings-more** (changing syntax settings)
+	* **preferences settings-user** &nbsp;(copy and paster from settings-default what u want to change)
+	* **preferences settings-more** &nbsp;(changing syntax settings)
 	
 * #####Adding custom themes
-	* **preferences settings-user** (to install your own themes ie: soda-theme)
+	* **preferences settings-user** &nbsp;(to install your own themes ie: soda-theme)
 
 * #####Adding color schemes
 	* **preferences color-scheme**
 
 * #####Custom key bindings
-	* **preferences key-bindings-default** (dont edit this file -save them in key bindings-user)
+	* **preferences key-bindings-default** &nbsp;(dont edit this file -save them in key bindings-user)
 
 
 ###Power Editing
