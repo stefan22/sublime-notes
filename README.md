@@ -85,20 +85,25 @@
 	* ctrl-u (it's the undo selection command)
 
 * #####Switching into Vintage mode to make it more like Vim
+	* preferences settings-default(end of file) c/p to your settings-user file
+	* next you do ignore nothing
 
 ###Automation
 
 * #####Autocompleting code
+	* ctrl + spacebar (i changed commit to tab instead of enter in settings-user file)
+
 * #####Using snippets in code
+	* ctrl + shift + p (then type snippet)
+	* lorem + tab (gives you lorem ipsum text)
+
 * #####Using macros in code
+	* tools record macro (ctrl + q)
+	* tools playback macro (ctrl + shift +q)
 
 ###Essential Packages
 
 * #####Package control
-* #####ReadmePlease
-* #####ColorPicker
-* #####LineEndings
-* #####SideBarEnhancements
-* #####HyperlinkHelper
-* #####Emmet
-* #####More packages
+	* sublime package control (google it)
+
+	
