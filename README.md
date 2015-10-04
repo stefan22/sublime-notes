@@ -102,7 +102,10 @@
 
 ###Essential Packages
 
-
+* #####Using macros in code
+	* tools record macro (ctrl + q)
+	* tools playback macro (ctrl + shift +q)
+	
 * #####Package control
 	* **sublime package control** (google it)
 	* **sublime package control** (google it)
