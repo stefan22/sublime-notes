@@ -101,7 +101,6 @@
 	* tools playback macro (ctrl + shift +q)
 
 ###Essential Packages
-
 * #####Package control
 	* sublime package control (google it)
 
