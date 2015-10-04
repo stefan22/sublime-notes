@@ -90,21 +90,21 @@
 ###Automation
 
 * #####Autocompleting code
-	* ctrl + spacebar (i changed commit to tab instead of enter in settings-user file)
+	* **ctrl + spacebar** &nbsp;(i changed commit to tab instead of enter in settings-user file)
 
 * #####Using snippets in code
-	* ctrl + shift + p (then type snippet)
-	* lorem + tab (gives you lorem ipsum text)
+	* **ctrl + shift + p** &nbsp;(then type snippet)
+	* **lorem + tab**  &nbsp;(gives you lorem ipsum text)
 
 * #####Using macros in code
-	* tools record macro (ctrl + q)
-	* tools playback macro (ctrl + shift +q)
+	* **tools record macro** &nbsp;(ctrl + q)
+	* **tools playback macro** &nbsp;(ctrl + shift +q)
 
 ###Essential Packages
 
 * #####Package control
 
-	* sublime package control (google it)
+	* **sublime package control**  &nbsp;(google it)
 
 	
 
