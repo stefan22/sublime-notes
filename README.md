@@ -47,16 +47,16 @@
 ###Power Editing
 
 * #####Expanding selections of code
-	* alt + right/left arrow key (will move you through text one word at a time)
-	* alt + shift + right/left arrow key (will build a selection as you go)
-	* ctrl + d (selects whatever word you're in)
-	* ctrl + l (selects the entire line you're in)
-	* ctrl + shift + a (selects the entire tag you're in)
-	* ctrl + shift + j (selects all the lines at the same indentation)
+	* **alt + right/left arrow key**  &nbsp;(will move you through text one word at a time)
+	* **alt + shift + right/left arrow key** &nbsp; (will build a selection as you go)
+	* **ctrl + d**  &nbsp;(selects whatever word you're in)
+	* **ctrl + l**  &nbsp;(selects the entire line you're in)
+	* **ctrl + shift + a**  &nbsp;(selects the entire tag you're in)
+	* **ctrl + shift + j**  &nbsp;(selects all the lines at the same indentation)
 
 * #####Transposing and swapping code
-	* ctrl + t  (to switch letters)
-	* ctrl + shift + up/down arrow  (can move an entire sentence up or down)
+	* **ctrl + t**   &nbsp;(to switch letters)
+	* **ctrl + shift + up/down arrow**   &nbsp;(can move an entire sentence up or down)
 
 * #####Bookmarking a position in the file
 	* goto bookmark from main menu
