@@ -14,10 +14,10 @@
 	* **ctrl + p**  &nbsp; (it gives you a pop-up listing all tabs that you have opened)
 
 * #####Basic editing features
-	* **f-6** turns on spell check (view spell check)
-	* **ctrl + [**  to indent group of text
-	* **edit line reindent** (automatically indent)
-	* **ctrl + m**  to jump between curly braces or (Goto jump to matching braket)
+	* **f-6** &nbsp;turns on spell check (view spell check)
+	* **ctrl + [**  &nbsp;to indent group of text
+	* **edit line reindent** &nbsp;(automatically indent)
+	* **ctrl + m**  &nbsp;to jump between curly braces or (Goto jump to matching braket)
 
 * #####Working with multiple files at once
 	* **alt + shift + 1 or 2 or 3**
@@ -31,32 +31,32 @@
 ###Customizing Your Editor
 
 * #####Changing preferences
-	* preferences settings-user (copy and paster from settings-default what u want to change)
-	* preferences settings-more (changing syntax settings)
+	* **preferences settings-user** &nbsp;(copy and paster from settings-default what u want to change)
+	* **preferences settings-more** &nbsp;(changing syntax settings)
 	
 * #####Adding custom themes
-	* preferences settings-user (to install your own themes ie: soda-theme)
+	* **preferences settings-user** &nbsp;(to install your own themes ie: soda-theme)
 
 * #####Adding color schemes
-	* preferences color-scheme
+	* **preferences color-scheme**
 
 * #####Custom key bindings
-	* preferences key-bindings-default (dont edit this file -save them in key bindings-user)
+	* **preferences key-bindings-default** &nbsp;(dont edit this file -save them in key bindings-user)
 
 
 ###Power Editing
 
 * #####Expanding selections of code
-	* alt + right/left arrow key (will move you through text one word at a time)
-	* alt + shift + right/left arrow key (will build a selection as you go)
-	* ctrl + d (selects whatever word you're in)
-	* ctrl + l (selects the entire line you're in)
-	* ctrl + shift + a (selects the entire tag you're in)
-	* ctrl + shift + j (selects all the lines at the same indentation)
+	* **alt + right/left arrow key**  &nbsp;(will move you through text one word at a time)
+	* **alt + shift + right/left arrow key** &nbsp; (will build a selection as you go)
+	* **ctrl + d**  &nbsp;(selects whatever word you're in)
+	* **ctrl + l**  &nbsp;(selects the entire line you're in)
+	* **ctrl + shift + a**  &nbsp;(selects the entire tag you're in)
+	* **ctrl + shift + j**  &nbsp;(selects all the lines at the same indentation)
 
 * #####Transposing and swapping code
-	* ctrl + t  (to switch letters)
-	* ctrl + shift + up/down arrow  (can move an entire sentence up or down)
+	* **ctrl + t**   &nbsp;(to switch letters)
+	* **ctrl + shift + up/down arrow**   &nbsp;(can move an entire sentence up or down)
 
 * #####Bookmarking a position in the file
 	* goto bookmark from main menu
