@@ -47,13 +47,43 @@
 ###Power Editing
 
 * #####Expanding selections of code
+	* alt + right/left arrow key (will move you through text one word at a time)
+	* alt + shift + right/left arrow key (will build a selection as you go)
+	* ctrl + d (selects whatever word you're in)
+	* ctrl + l (selects the entire line you're in)
+	* ctrl + shift + a (selects the entire tag you're in)
+	* ctrl + shift + j (selects all the lines at the same indentation)
+
 * #####Transposing and swapping code
+	* ctrl + t  (to switch letters)
+	* ctrl + shift + up/down arrow  (can move an entire sentence up or down)
+
 * #####Bookmarking a position in the file
+	* goto bookmark from main menu
+	* ctrl + f-2  (adds a bookmark to the line number. Press f-2 to return to your bookmark)
+
 * #####Using Goto Anything command
+	* ctrl + p (folders)
+	* ctrl + p (then enter # to do a more specific search)
+	* ctrl + p (then enter part file name + # to start looking into the file - even if not open)
+	* ctrl + p (then enter : + 50 to go to line number 50)
+	* ctrl + p (then css + @ to start looking for classes)
+
 * #####Command palette to access seldom-used shortcuts
+	* ctrl + shift + p (list of every command available to you in the editor)
+	* ctrl + shift + p (then enter html to set syntax to html or plain for plain)
+
 * #####Using multiple selections to edit multiple lines
+	* hold ctrl key to drag out your selection
+	* ctrl + alt + up/down arrow
+	* ctrl + shift + l (to split multiple selections into lines)
+
 * #####Creating a multiple selection using matches
-* #####Using multiple selections to edit large amounts of text
+	* alt + f-3 
+	* ctrl-k (if you're doing a selection you can skip one)
+	* ctrl-d (to move on to the next one)
+	* ctrl-u (it's the undo selection command)
+
 * #####Switching into Vintage mode to make it more like Vim
 
 ###Automation
