@@ -15,7 +15,7 @@
 
 * #####Basic editing features
 	* **f-6** &nbsp;turns on spell check (view spell check)
-	* **ctrl + [**  &nbsp;to indent group of text
+	* **ctrl + [**  &nbsp;&nbsp;to indent group of text
 	* **edit line reindent** &nbsp;(automatically indent)
 	* **ctrl + m**  &nbsp;to jump between curly braces or (Goto jump to matching braket)
 
